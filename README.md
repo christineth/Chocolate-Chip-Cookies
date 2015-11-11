@@ -24,7 +24,9 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 ##Dry Ingredients
 - 2 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
-- 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
+- 1 cup (about 12 ounces) semisweet and/or milk chocolate chips
+- 1 cup (about 12 ounces) butterscotch chips
+- 1/4 cup of peanut butter
 
 
 ##Cooking Directions
